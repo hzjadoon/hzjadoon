@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hassan Zaib Jadoon</h1>
-<h3 align="center">Computer Systems Engineering Student<br>Certified Project Manager | Research Analyst | Community Manager | Academic Researcher</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hzjadoon&label=Profile%20views&color=0e75b6&style=flat" alt="hzjadoon" /> </p>
+<h3 align="center">Computer Systems Engineering Student<br>Certified Project Manager | Research Analyst | Community Manager | Academic Researcher</h3>
 
 As a budding Computer System Engineer at the University of Engineering & Technology Peshawar, my journey intertwines rigorous academic training with hands-on experience in data analysis and community engagement. At Server4Sale LLC, my contributions have notably enhanced decision-making efficiencies, leveraging Power BI and AI technologies to transform data into action.
 
