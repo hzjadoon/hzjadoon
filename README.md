@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/a/qpiIjHc" alt="Cover Image" style="width:100%;">
+  <img src="https://github.com/hzjadoon/hzjadoon/blob/main/DESIGN.png" alt="Cover Image" style="width:100%;">
 </p>
 
 <table align="center">
