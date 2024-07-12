@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassan Zaib Jadoon</h1>
-<h3 align="center">Undergrad Computer Systems Engineering | Certified Project Manager | Research Analyst | Community Manager </h3>
+<h3 align="center">Computer Systems Engineering Student<br>Certified Project Manager | Research Analyst | Community Manager | Academic Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hzjadoon&label=Profile%20views&color=0e75b6&style=flat" alt="hzjadoon" /> </p>
 
