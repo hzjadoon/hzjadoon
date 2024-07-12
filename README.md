@@ -20,7 +20,7 @@ Balancing studies with professional roles, our team at the SID - Secured IoT Dev
 <a href="https://linkedin.com/in/hassanzaibjadoon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hassanzaibjadoon" height="30" width="40" /></a>
 <a href="https://twitter.com/techspirator" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="[your-twitter]" height="30" width="40" /></a>
 <a href="https://instagram.com/techspirator" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="[your-instagram]" height="30" width="40" /></a>
-<a href="https://www.youtube.com/hassanzaibjadoon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="[your-youtube]" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@hassanzaibjadoon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="[your-youtube]" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
