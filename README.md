@@ -1,8 +1,8 @@
-## Hassan Zaib Jadoon | Computer System Engineering Student
-👋 Hello, I'm Hassan Zaib Jadoon, a dedicated and aspiring Computer System Engineering student with a passion for technology.
-🚀 I'm currently pursuing my degree in Computer System Engineering, where I'm building a strong foundation in various aspects of technology, with a particular focus on cutting-edge fields such as AI, Cyber Security, and Networking.
-📚 I'm committed to continuous learning and staying up-to-date with the latest trends in these rapidly evolving fields.
-🌐 You can learn more about my academic journey and personal projects on my [Portfolio Website](https://hassanzaibjadoon20.wixsite.com/my-site-5), and connect with me on [LinkedIn](https://www.linkedin.com/in/hassanzaibjadoon/) to stay in touch.
+## Hassan Zaib Jadoon | Computer System Engineering Student | Certified Project Manager | Research Analyst 
+As a budding Computer System Engineer at the University of Engineering & Technology Peshawar, my journey intertwines rigorous academic training with hands-on experience in data analysis and community engagement. At Server4Sale LLC, my contributions have notably enhanced decision-making efficiencies, leveraging Power BI and AI technologies to transform data into action.
+
+Balancing studies with professional roles, our team at the SID - Secured IoT Devices Lab - UET Peshawar has advanced sustainable agriculture through innovative IoT solutions. My role as a Community Manager at The Order of Pen harnesses my customer service skills, ensuring our collaborative efforts resonate within the community and align with my dedication to technological and societal progress.
+🌐 You can learn more about my academic journey and personal projects on my [Portfolio Website](https://hzjadoon.github.io/Portfolio/), and connect with me on [LinkedIn](https://www.linkedin.com/in/hassanzaibjadoon/) to stay in touch.
 📫 Feel free to reach out to me at my [Email](mailto:HassanzaibJadoon2004@gmail.com) if you'd like to discuss potential collaborations or have any inquiries.
 🔗 Check out my GitHub repositories for my coding adventures.
 
