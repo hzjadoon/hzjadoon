@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1000x200.png?text=Cover+Image" alt="Cover Image" style="width:100%;">
+  <img src="[https://via.placeholder.com/1000x200.png?text=Cover+Image](https://drive.google.com/file/d/1VDviQafRp7MMVZi7GlwNJGMwe4cZ6UoG/view?usp=sharing)" alt="Cover Image" style="width:100%;">
 </p>
 
 <table align="center">
