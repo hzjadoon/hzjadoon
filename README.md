@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.linkedin.com/in/hassanzaibjadoon/overlay/background-image/" alt="Cover Image" style="width:100%;">
+  <img src="https://imgur.com/Awznwhg" alt="Cover Image" style="width:100%;">
 </p>
 
 <table align="center">
