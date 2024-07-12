@@ -2,19 +2,10 @@
   <img src="https://github.com/hzjadoon/hzjadoon/blob/main/DESIGN.png" alt="Cover Image" style="width:100%;">
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" alt="Profile Picture" style="border-radius: 50%;" width="150" height="150">
-    </td>
-    <td>
-      <h1 align="left">Hassan Zaib Jadoon</h1>
-      <h3 align="left">Computer Systems Engineering Student<br>Certified Project Manager | Research Analyst | Community Manager | Academic Researcher</h3>
-    </td>
-  </tr>
-</table>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=hzjadoon&label=Profile%20views&color=0e75b6&style=flat" alt="hzjadoon" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hzjadoon&label=Profile%20views&color=0e75b6&style=flat" alt="hzjadoon" /> </p>
+<h1 align="center">Hi 👋, I'm Hassan Zaib Jadoon</h1>
+<h3 align="center">Computer Systems Engineering Student<br>Certified Project Manager | Research Analyst | Community Manager | Academic Researcher</h3>
 
 As a budding Computer System Engineer at the University of Engineering & Technology Peshawar, my journey intertwines rigorous academic training with hands-on experience in data analysis and community engagement. At Server4Sale LLC, my contributions have notably enhanced decision-making efficiencies, leveraging Power BI and AI technologies to transform data into action.
 
