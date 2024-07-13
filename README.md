@@ -1,6 +1,6 @@
 ![Header](https://github.com/hzjadoon/hzjadoon/blob/main/DESIGN.png)
 <!-- Profile Views Badge -->
-<p align="right"> 
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=hzjadoon&label=Profile%20views&color=0e75b6&style=flat" alt="hzjadoon" /> 
 </p>
 
