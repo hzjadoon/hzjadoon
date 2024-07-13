@@ -3,7 +3,7 @@
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=hzjadoon&label=Profile%20views&color=0e75b6&style=flat" alt="hzjadoon" /> 
 </p>
-![Maintenance](https://img.shields.io/badge/Maintenance-Active-brightgreen)
+![Maintenance](https://badgen.net/badge/Maintenance/Active/brightgreen)
 
 # Hi 👋, I'm Hassan Zaib Jadoon
 Computer Systems Engineering Student  
