@@ -2,12 +2,11 @@
 <!-- Profile Views Badge -->
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=hzjadoon&label=Profile%20views&color=0e75b6&style=flat" alt="hzjadoon" /> 
-
-  
-  ![LinkedIn Followers](https://img.shields.io/badge/dynamic/jsoncolor=0A66C2&label=LinkedIn%20Followers&query=$.followersCount&url=https://www.linkedin.com/voyager/api/identity/profiles/hassanzaibjadoon/profileView?count=1)
-
-
 </p>
+
+![LinkedIn Followers](https://img.shields.io/badge/LinkedIn%20Followers-2.5K-blue)
+
+
 # Hi 👋, I'm Hassan Zaib Jadoon
 Computer Systems Engineering Student  
 Certified Project Manager | Research Analyst | Community Manager | Academic Researcher  
