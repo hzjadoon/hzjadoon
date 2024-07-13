@@ -73,30 +73,31 @@ Balancing studies with professional roles, our team at the SID - Secured IoT Dev
 ---
 ##Contact Me: 
 <p align="center">
-  <a href="https://www.instagram.com/techspirator/" target="_blank">
+  <a href="https://www.instagram.com/techspirator/" target="_blank" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Instagram" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/techspirator" target="_blank">
+  
+  <a href="https://twitter.com/techspirator" target="_blank" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="Twitter" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/hassanzaibjadoon" target="_blank">
+  
+  <a href="https://linkedin.com/in/hassanzaibjadoon" target="_blank" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@hassanzaibjadoon" target="_blank">
+  
+  <a href="https://www.youtube.com/@hassanzaibjadoon" target="_blank" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" alt="YouTube" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://facebook.com/hassanzaibjadoon2004" target="_blank">
+  
+  <a href="https://facebook.com/hassanzaibjadoon2004" target="_blank" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="Facebook" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://wa.me/1234567890" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
   </a>
 </p>
+
 
 
 
