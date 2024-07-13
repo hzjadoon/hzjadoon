@@ -1,5 +1,5 @@
 ![Header](https://github.com/hzjadoon/hzjadoon/blob/main/DESIGN.png)
-
+![Profile Views](https://komarev.com/ghpvc/?username=hzjadoon&color=blue)
 # Hi 👋, I'm Hassan Zaib Jadoon
 
 Computer Systems Engineering Student  
