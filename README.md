@@ -73,6 +73,13 @@ Balancing studies with professional roles, our team at the SID - Secured IoT Dev
 ---
 ##Contact Me: 
 
+- 📫 Email: your-email-link
+- 🌐 Portfolio: your-portfolio-link
+- 💼 LinkedIn: [Hassan Zaib Jadoon](https://www.linkedin.com/in/hassanzaibjadoon)
+- 📱 WhatsApp: [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/your-phone-number)
+
+
+
 <p align="center">
   <a href="https://www.instagram.com/techspirator/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Techspirator" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
