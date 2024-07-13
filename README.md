@@ -104,4 +104,6 @@ If you like my work and would like to support me, you can:
 <br><br>
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FCC624?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](your-buy-me-a-coffee-link)
 
+## Quote
+_"The best way to predict the future is to invent it." - Alan Kay_
 
