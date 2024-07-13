@@ -15,40 +15,38 @@ Balancing studies with professional roles, our team at the SID - Secured IoT Dev
 - 📫 Feel free to reach out to me at my [Email](mailto:HassanzaibJadoon2004@gmail.com) if you'd like to discuss potential collaborations or have any inquiries.
 - 🔗 Check out my [GitHub repositories](https://github.com/hzjadoon) for my coding adventures.
 
-
 <h3 align="left">Connect with me:</h3>
-<p align="center" style="background-color: #f0f0f0; padding: 10px;">
+<p align="center">
   <a href="https://instagram.com/[your-instagram]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="[your-instagram]" height="40" width="40" style="background-color: #000000; padding: 5px; border-radius: 50%;" />
+    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="[your-instagram]" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/[your-twitter]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="[your-twitter]" height="40" width="40" style="background-color: #000000; padding: 5px; border-radius: 50%;" />
+    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="[your-twitter]" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/hassanzaibjadoon" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="hassanzaibjadoon" height="40" width="40" style="background-color: #000000; padding: 5px; border-radius: 50%;" />
+    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="hassanzaibjadoon" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/c/[your-youtube]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" alt="[your-youtube]" height="40" width="40" style="background-color: #000000; padding: 5px; border-radius: 50%;" />
+    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" alt="[your-youtube]" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://facebook.com/[your-facebook]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="[your-facebook]" height="40" width="40" style="background-color: #000000; padding: 5px; border-radius: 50%;" />
+    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="[your-facebook]" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
   </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="background-color: #f0f0f0; padding: 10px;">
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<p align="left"> 
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hzjadoon&show_icons=true&locale=en&layout=compact" alt="hzjadoon" /></p>
 
