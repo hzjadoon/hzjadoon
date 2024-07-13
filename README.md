@@ -85,6 +85,4 @@ Balancing studies with professional roles, our team at the SID - Secured IoT Dev
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hzjadoon&layout=compact&theme=radical)
 ![Hassan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hzjadoon&theme=radical)
 
-## Wakatime Stats
 
-![Hassan's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hzjadoon)
