@@ -95,9 +95,10 @@ Balancing studies with professional roles, our team at the SID - Secured IoT Dev
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/1234567890" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/whatsapp.svg" alt="WhatsApp" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp_icon.png/640px-WhatsApp_icon.png" alt="WhatsApp" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
   </a>
 </p>
+
 
 
 ## 🌟 **GitHub Stats & 🔥 GitHub Streaks**
