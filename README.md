@@ -2,7 +2,6 @@
   <img src="https://github.com/hzjadoon/hzjadoon/blob/main/DESIGN.png" alt="Cover Image" style="width:100%;">
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hzjadoon&label=Profile%20views&color=0e75b6&style=flat" alt="hzjadoon" /> </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=hzjadoon&label=Profile%20views&color=0e75b6&style=flat" alt="hzjadoon" /> </p>
 
 <h1 align="center" style="color: #4A90E2; font-size: 2.5em;">Hi 👋, I'm Hassan Zaib Jadoon</h1>
 <h3 align="center">Computer Systems Engineering Student<br>Certified Project Manager | Research Analyst | Community Manager | Academic Researcher</h3>
