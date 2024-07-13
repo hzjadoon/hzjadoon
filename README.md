@@ -18,23 +18,19 @@ Balancing studies with professional roles, our team at the SID - Secured IoT Dev
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="https://instagram.com/[your-instagram]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="[your-instagram]" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
+    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="[your-instagram]" height="40" width="40" style="background-color: #000000; padding: 10px; border-radius: 50%; margin: 10px;" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/[your-twitter]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="[your-twitter]" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
+    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="[your-twitter]" height="40" width="40" style="background-color: #000000; padding: 10px; border-radius: 50%; margin: 10px;" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/hassanzaibjadoon" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="hassanzaibjadoon" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
+    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="hassanzaibjadoon" height="40" width="40" style="background-color: #000000; padding: 10px; border-radius: 50%; margin: 10px;" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/c/[your-youtube]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" alt="[your-youtube]" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
+    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" alt="[your-youtube]" height="40" width="40" style="background-color: #000000; padding: 10px; border-radius: 50%; margin: 10px;" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://facebook.com/[your-facebook]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="[your-facebook]" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
+    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="[your-facebook]" height="40" width="40" style="background-color: #000000; padding: 10px; border-radius: 50%; margin: 10px;" />
   </a>
 </p>
 
