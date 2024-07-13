@@ -89,9 +89,12 @@ Balancing studies with professional roles, our team at the SID - Secured IoT Dev
 </div>
 
 
-## Trophies
+## 🏆 Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=hzjadoon&theme=radical)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hzjadoon&theme=radical" alt="Trophies" />
+</div>
+
 
 
 
