@@ -71,18 +71,18 @@ Balancing studies with professional roles, our team at the SID - Secured IoT Dev
 ![Office Software](https://img.shields.io/badge/Office%20Software-4B0082?style=for-the-badge&logo=office-software&logoColor=white)
 
 ---
-##Contact Me: 
+## Contact Me: 
 <p align="center">
-  <a href="https://www.instagram.com/techspirator/" target="_blank" style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Instagram" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
+  <a href="https://linkedin.com/in/hassanzaibjadoon" target="_blank" style="margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
   </a>
   
   <a href="https://twitter.com/techspirator" target="_blank" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="Twitter" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
   </a>
   
-  <a href="https://linkedin.com/in/hassanzaibjadoon" target="_blank" style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
+  <a href="https://www.instagram.com/techspirator/" target="_blank" style="margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Instagram" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
   </a>
   
   <a href="https://www.youtube.com/@hassanzaibjadoon" target="_blank" style="margin-right: 20px;">
@@ -97,7 +97,6 @@ Balancing studies with professional roles, our team at the SID - Secured IoT Dev
     <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
   </a>
 </p>
-
 
 
 ## 🌟 **GitHub Stats & 🔥 GitHub Streaks**
