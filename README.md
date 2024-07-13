@@ -99,8 +99,8 @@ Balancing studies with professional roles, our team at the SID - Secured IoT Dev
   [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@your_username)
   [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/your_username)
 
-## Support Me
-<p align="center">
-  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FCC624?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](your-buy-me-a-coffee-link)
-</p>
+## Support
+If you like my work and would like to support me, you can:
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FCC624?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](your-buy-me-a-coffee-link)
+
 
