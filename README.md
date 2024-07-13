@@ -4,7 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=hzjadoon&label=Profile%20views&color=0e75b6&style=flat" alt="hzjadoon" /> 
 </p>
 <!-- Maintenance Badge -->
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/hzjadoon/community-management-system/graphs/commit-activity)
+
 
 # Hi 👋, I'm Hassan Zaib Jadoon
 Computer Systems Engineering Student  
