@@ -80,4 +80,21 @@ Balancing studies with professional roles, our team at the SID - Secured IoT Dev
 ![Self-regulation](https://img.shields.io/badge/Self-regulation-8A2BE2?style=for-the-badge&logo=self-regulation&logoColor=white)
 ![Personal Branding](https://img.shields.io/badge/Personal%20Branding-DC143C?style=for-the-badge&logo=branding&logoColor=white)
 ![High Energy Level](https://img.shields.io/badge/High%20Energy%20Level-FF6347?style=for-the-badge&logo=energy&logoColor=white)
-![Cultural Diversity](https://img.shields.io/badge/Cultural%20Diversity-4682B4?
+![Cultural Diversity](https://img.shields.io/badge/Cultural%20Diversity-4682B4?style=for-the-badge&logo=cultural-diversity&logoColor=white)
+![Social Media Management](https://img.shields.io/badge/Social%20Media%20Management-00BFFF?style=for-the-badge&logo=social-media&logoColor=white)
+![Technical Project Leadership](https://img.shields.io/badge/Technical%20Project%20Leadership-DC143C?style=for-the-badge&logo=leadership&logoColor=white)
+![Office Software](https://img.shields.io/badge/Office%20Software-4B0082?style=for-the-badge&logo=office-software&logoColor=white)
+
+---
+
+### Contact Me
+- 📫 Email: your-email-link
+- 🌐 Portfolio: your-portfolio-link
+- 💼 LinkedIn: [Hassan Zaib Jadoon](https://www.linkedin.com/in/hassanzaibjadoon)
+- 🔗 GitHub: [hzjadoon](https://github.com/hzjadoon)
+
+---
+
+## GitHub Stats
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzjadoon&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hzjadoon&layout=compact&theme=radical)
