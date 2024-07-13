@@ -5,10 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=hzjadoon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-![LinkedIn Followers](https://img.shields.io/badge/LinkedIn%20Followers-2.5K-blue)
-
-
-
 
 # Hi 👋, I'm Hassan Zaib Jadoon
 Computer Systems Engineering Student  
@@ -18,10 +14,6 @@ As a budding Computer System Engineer at the University of Engineering & Technol
 
 Balancing studies with professional roles, our team at the SID - Secured IoT Devices Lab - UET Peshawar has advanced sustainable agriculture through innovative IoT solutions. My role as a Community Manager at The Order of Pen harnesses my customer service skills, ensuring our collaborative efforts resonate within the community and align with my dedication to technological and societal progress.
 
-🌐 You can learn more about my academic journey and personal projects on my [Portfolio Website](your-portfolio-link)  
-👨‍💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/hassanzaibjadoon)  
-📫 Feel free to reach out to me at my [Email](your-email-link) if you'd like to discuss potential collaborations or have any inquiries.  
-🔗 Check out my [GitHub repositories](https://github.com/hzjadoon) for my coding adventures.
 
 ## Skills
 
