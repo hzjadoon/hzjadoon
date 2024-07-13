@@ -35,11 +35,6 @@ Balancing studies with professional roles, our team at the SID - Secured IoT Dev
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white)
 
-### Development Projects
-- **Brick Breaker Game in C++**: Developed a classic arcade-style game using C++ and SFML.
-- **Personal Portfolio**: Created a personal portfolio website using HTML, CSS, and JavaScript.
-- **Deploy Folio**: A tool to deploy portfolio websites easily.
-
 ### Communication and Interpersonal Skills
 ![Public Speaking](https://img.shields.io/badge/Public%20Speaking-FF6347?style=for-the-badge&logo=public-speaking&logoColor=white)
 ![Written Communication](https://img.shields.io/badge/Written%20Communication-4682B4?style=for-the-badge&logo=communication&logoColor=white)
@@ -57,16 +52,6 @@ Balancing studies with professional roles, our team at the SID - Secured IoT Dev
 ![Coordinator](https://img.shields.io/badge/Coordinator-FF1493?style=for-the-badge&logo=coordinator&logoColor=white)
 ![Team Lead](https://img.shields.io/badge/Team%20Lead-00BFFF?style=for-the-badge&logo=team-lead&logoColor=white)
 ![Founder](https://img.shields.io/badge/Founder-FF6347?style=for-the-badge&logo=founder&logoColor=white)
-
-### Educational and Academic Involvement
-- **University of Engineering & Technology Peshawar**
-- **Microsoft Learn Student Ambassador**
-- **Nano Tips for Developing Magnetic Charisma**
-- **Career Wellness Nano Tips**
-- **Certified Python Elementary Programmer**
-- **Programming for Everybody (Getting Started with Python)**
-- **Python Seekho Challenge**
-- **The Six Skills of Proactive Professionals**
 
 ### Additional Skills
 ![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-483D8B?style=for-the-badge&logo=thinking&logoColor=white)
