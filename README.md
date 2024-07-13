@@ -1,12 +1,10 @@
 ![Header](https://github.com/hzjadoon/hzjadoon/blob/main/DESIGN.png)
 <!-- Profile Views Badge -->
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hzjadoon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-hzjadoon&label=Profile%20views&color=0e75b6&style=flat)
 
   ![LinkedIn Followers](https://img.shields.io/badge/LinkedIn%20Followers-2.5K-blue)
 
-</p>
 
 # Hi 👋, I'm Hassan Zaib Jadoon
 Computer Systems Engineering Student  
