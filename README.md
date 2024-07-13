@@ -17,7 +17,7 @@ Balancing studies with professional roles, our team at the SID - Secured IoT Dev
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="https://instagram.com/teschspirator" target="blank">
+  <a href="https://www.instagram.com/techspirator/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Techspirator" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
