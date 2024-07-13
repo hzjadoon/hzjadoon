@@ -88,6 +88,7 @@ Balancing studies with professional roles, our team at the SID - Secured IoT Dev
   <img src="https://github-profile-trophy.vercel.app/?username=hzjadoon&theme=radical" alt="Trophies" />
 </div>
 
+---
 ## Contact Me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassanzaibjadoon)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-link)
