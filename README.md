@@ -1,57 +1,70 @@
-<p align="center">
-  <img src="https://github.com/hzjadoon/hzjadoon/blob/main/DESIGN.png" alt="Cover Image" style="width:100%;">
-</p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=hzjadoon&label=Profile%20views&color=0e75b6&style=flat" alt="hzjadoon" /> </p>
+# Header/Banner
+![Header](your-banner-link-here)
 
-<h1 align="center" style="color: #4A90E2; font-size: 2.5em;">Hi 👋, I'm Hassan Zaib Jadoon</h1>
-<h3 align="center">Computer Systems Engineering Student<br>Certified Project Manager | Research Analyst | Community Manager | Academic Researcher</h3>
+# Hi 👋, I'm Hassan Zaib Jadoon
+
+Computer Systems Engineering Student  
+Certified Project Manager | Research Analyst | Community Manager | Academic Researcher  
 
 As a budding Computer System Engineer at the University of Engineering & Technology Peshawar, my journey intertwines rigorous academic training with hands-on experience in data analysis and community engagement. At Server4Sale LLC, my contributions have notably enhanced decision-making efficiencies, leveraging Power BI and AI technologies to transform data into action.
 
 Balancing studies with professional roles, our team at the SID - Secured IoT Devices Lab - UET Peshawar has advanced sustainable agriculture through innovative IoT solutions. My role as a Community Manager at The Order of Pen harnesses my customer service skills, ensuring our collaborative efforts resonate within the community and align with my dedication to technological and societal progress.
 
-- 🌐 You can learn more about my academic journey and personal projects on my [Portfolio Website](https://hzjadoon.github.io/Portfolio/)
-- 👨‍💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/hassanzaibjadoon/)
-- 📫 Feel free to reach out to me at my [Email](mailto:HassanzaibJadoon2004@gmail.com) if you'd like to discuss potential collaborations or have any inquiries.
-- 🔗 Check out my [GitHub repositories](https://github.com/hzjadoon) for my coding adventures.
+🌐 You can learn more about my academic journey and personal projects on my [Portfolio Website](your-portfolio-link)  
+👨‍💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/hassanzaibjadoon)  
+📫 Feel free to reach out to me at my [Email](your-email-link) if you'd like to discuss potential collaborations or have any inquiries.  
+🔗 Check out my [GitHub repositories](https://github.com/hzjadoon) for my coding adventures.
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.instagram.com/techspirator/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Techspirator" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/techspirator" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="Techspirator" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/hassanzaibjadoon" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="hassanzaibjadoon" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@hassanzaibjadoon" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" alt="Hassan Zaib" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://facebook.com/hassanzaibjadoon2004" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="HassanZaibJadoon" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
-  </a>
-</p>
+## Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-</p>
+For a comprehensive list of my skills and tools, please visit my [LinkedIn Skills Section](https://www.linkedin.com/in/hassanzaibjadoon/details/skills/).
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hzjadoon&show_icons=true&locale=en&layout=compact" alt="hzjadoon" /></p>
+## Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hzjadoon&show_icons=true&locale=en" alt="hzjadoon" /></p>
+Here are a few of my key projects:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hzjadoon&" alt="hzjadoon" /></p>
+- **[Project 1](project-link-1)**: Brief description of project 1.
+- **[Project 2](project-link-2)**: Brief description of project 2.
+- **[Project 3](project-link-3)**: Brief description of project 3.
 
-<h4 align="center">Let's connect and explore the exciting world of technology together!</h4>
+For more details, you can visit my [LinkedIn Projects](https://www.linkedin.com/in/hassanzaibjadoon) and my [GitHub repositories](https://github.com/hzjadoon).
+
+## GitHub Stats
+
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzjadoon&show_icons=true&theme=radical)
+
+## Streak Stats
+
+![Hassan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hzjadoon&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hzjadoon&layout=compact&theme=radical)
+
+## Wakatime Stats
+
+![Hassan's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hzjadoon)
+
+## Profile Views Counter
+
+![Profile Views](https://komarev.com/ghpvc/?username=hzjadoon&color=blue)
+
+## Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=hzjadoon&theme=radical)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassanzaibjadoon)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-link)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](your-email-link)
+
+## Support
+
+If you like my work and would like to support me, you can:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FCC624?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](your-buy-me-a-coffee-link)
+
+## Quote
+
+_"The best way to predict the future is to invent it." - Alan Kay_
