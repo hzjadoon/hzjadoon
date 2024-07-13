@@ -73,11 +73,7 @@ Balancing studies with professional roles, our team at the SID - Secured IoT Dev
 ---
 ##Contact Me: 
 
-- 📫 Email: your-email-link
-- 🌐 Portfolio: your-portfolio-link
-- 💼 LinkedIn: [Hassan Zaib Jadoon](https://www.linkedin.com/in/hassanzaibjadoon)
-- 📱 WhatsApp: [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/your-phone-number)
-
+ <a href="https://wa.me/your-phone-number"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 
 
 <p align="center">
