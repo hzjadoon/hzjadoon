@@ -81,7 +81,11 @@ Balancing studies with professional roles, our team at the SID - Secured IoT Dev
 ---
 
 ## GitHub Stats & GitHub Streaks
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzjadoon&show_icons=true&theme=radical)
-![Hassan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hzjadoon&theme=radical)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hzjadoon&show_icons=true&theme=radical" alt="Hassan's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hzjadoon&theme=radical" alt="Hassan's GitHub Streak" />
+</div>
+
 
 
