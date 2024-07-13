@@ -1,5 +1,5 @@
 # Header/Banner
-![Header](your-banner-link-here)
+![Header](https://github.com/hzjadoon/hzjadoon/blob/main/DESIGN.png)
 
 # Hi 👋, I'm Hassan Zaib Jadoon
 
