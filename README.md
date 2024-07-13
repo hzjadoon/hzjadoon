@@ -3,7 +3,6 @@
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=hzjadoon&label=Profile%20views&color=0e75b6&style=flat" alt="hzjadoon" /> 
 </p>
-<!-- Maintenance Badge -->
 ![Maintenance](https://img.shields.io/badge/Maintenance-Active-brightgreen)
 
 # Hi 👋, I'm Hassan Zaib Jadoon
