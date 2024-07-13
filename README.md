@@ -72,36 +72,31 @@ Balancing studies with professional roles, our team at the SID - Secured IoT Dev
 
 ---
 ##Contact Me: 
-
- <a href="https://wa.me/your-phone-number"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-
-
 <p align="center">
-  <a href="https://www.instagram.com/techspirator/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Techspirator" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
+  <a href="https://www.instagram.com/techspirator/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Techspirator" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/techspirator" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="Techspirator" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
+  <a href="https://twitter.com/techspirator" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="Techspirator" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/hassanzaibjadoon" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="hassanzaibjadoon" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
+  <a href="https://linkedin.com/in/hassanzaibjadoon" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="hassanzaibjadoon" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@hassanzaibjadoon" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" alt="Hassan Zaib" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
+  <a href="https://www.youtube.com/@hassanzaibjadoon" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" alt="Hassan Zaib" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://facebook.com/hassanzaibjadoon2004" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="HassanZaibJadoon" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
+  <a href="https://facebook.com/hassanzaibjadoon2004" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="HassanZaibJadoon" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/1234567890" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp_icon.png/640px-WhatsApp_icon.png" alt="WhatsApp" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
+  <a href="https://wa.me/1234567890" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp_icon.png/640px-WhatsApp_icon.png" alt="WhatsApp" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
   </a>
 </p>
-
 
 
 
