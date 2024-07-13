@@ -1,7 +1,7 @@
 ![Header](https://github.com/hzjadoon/hzjadoon/blob/main/DESIGN.png)
-![Profile Views](https://komarev.com/ghpvc/?username=hzjadoon&color=blue)
-# Hi 👋, I'm Hassan Zaib Jadoon
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=hzjadoon&label=Profile%20views&color=0e75b6&style=flat" alt="hzjadoon" /> </p>
 
+# Hi 👋, I'm Hassan Zaib Jadoon
 Computer Systems Engineering Student  
 Certified Project Manager | Research Analyst | Community Manager | Academic Researcher  
 
