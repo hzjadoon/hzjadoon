@@ -71,8 +71,8 @@ Balancing studies with professional roles, our team at the SID - Secured IoT Dev
 ![Office Software](https://img.shields.io/badge/Office%20Software-4B0082?style=for-the-badge&logo=office-software&logoColor=white)
 
 ---
+##Contact Me: 
 
-### Contact Me
 <p align="center">
   <a href="https://www.instagram.com/techspirator/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Techspirator" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
@@ -93,10 +93,14 @@ Balancing studies with professional roles, our team at the SID - Secured IoT Dev
   <a href="https://facebook.com/hassanzaibjadoon2004" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="HassanZaibJadoon" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/1234567890" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/whatsapp.svg" alt="WhatsApp" height="40" width="40" style="background-color:#000000; padding: 10px; border-radius: 50%;" />
+  </a>
 </p>
 
-## 🌟 **GitHub Stats & 🔥 GitHub Streaks**
 
+## 🌟 **GitHub Stats & 🔥 GitHub Streaks**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hzjadoon&show_icons=true&theme=radical" alt="Hassan's GitHub stats" width="375" height="175" />
   <img src="https://www.transparenttextures.com/patterns/white-concrete.png" alt="" width="50" height="1" />
