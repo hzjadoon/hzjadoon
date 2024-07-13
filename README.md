@@ -101,7 +101,7 @@ Balancing studies with professional roles, our team at the SID - Secured IoT Dev
 
 ## Support
 If you like my work and would like to support me, you can:
-<br>
+<br><br>
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FCC624?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](your-buy-me-a-coffee-link)
 
 
