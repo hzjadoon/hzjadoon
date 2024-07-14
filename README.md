@@ -6,14 +6,35 @@
 </p>
 
 
-# Hi 👋, I'm Hassan Zaib Jadoon
+
+## Hi 👋, I'm Hassan Zaib Jadoon
 Computer Systems Engineering Student  
 Certified Project Manager | Research Analyst | Community Manager | Academic Researcher  
 
-As a budding Computer System Engineer at the University of Engineering & Technology Peshawar, my journey intertwines rigorous academic training with hands-on experience in data analysis and community engagement. At Server4Sale LLC, my contributions have notably enhanced decision-making efficiencies, leveraging Power BI and AI technologies to transform data into action.
+---
 
-Balancing studies with professional roles, our team at the SID - Secured IoT Devices Lab - UET Peshawar has advanced sustainable agriculture through innovative IoT solutions. My role as a Community Manager at The Order of Pen harnesses my customer service skills, ensuring our collaborative efforts resonate within the community and align with my dedication to technological and societal progress.
-...
+### 📘 **Academic and Professional Journey**
+- 🎓 **Education:**  
+  Budding Computer System Engineer at the University of Engineering & Technology Peshawar.
+  
+- 📊 **Professional Experience:**  
+  - **Server4Sale LLC:**
+    - 💡 Enhanced decision-making efficiencies.
+    - ⚙️ Leveraged Power BI and AI technologies to transform data into actionable insights.
+    
+- 🌿 **Research and Innovation:**  
+  - **SID - Secured IoT Devices Lab - UET Peshawar:**
+    - 🌱 Advanced sustainable agriculture through innovative IoT solutions.
+
+### 🤝 **Community Engagement**
+- **The Order of Pen:**  
+  - 🛠️ Role: Community Manager
+  - 💬 Harnessed customer service skills.
+  - 📢 Ensured collaborative efforts resonate within the community.
+  - 🌍 Dedicated to technological and societal progress.
+
+---
+
 
 ## Skills
 
