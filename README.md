@@ -13,28 +13,26 @@ Certified Project Manager | Research Analyst | Community Manager | Academic Rese
 
 ### 📘 **Academic and Professional Journey**
 - 🎓 **Education:**  
-  Budding Computer System Engineer at the [University of Engineering & Technology Peshawar](http://www.uetpeshawar.edu.pk/) ![UET Peshawar Logo](https://www.uetpeshawar.edu.pk/img/2020/logo.png)
+  Budding Computer System Engineer at the [University of Engineering & Technology Peshawar](http://www.uetpeshawar.edu.pk/).
   
 - 📊 **Professional Experience:**  
-  - **[Server4Sale LLC](https://www.server4sale.com/)**
-    - ![Server4Sale Logo](https://www.server4sale.com/images/logo.png)
+  - **[Server4Sale LLC](https://www.server4sale.com/):**
     - 💡 Enhanced decision-making efficiencies.
     - ⚙️ Leveraged Power BI and AI technologies to transform data into actionable insights.
     
 - 🌿 **Research and Innovation:**  
-  - **[SID - Secured IoT Devices Lab - UET Peshawar](http://www.uetpeshawar.edu.pk/)**
-    - ![SID Logo](https://www.uetpeshawar.edu.pk/img/2020/logo.png)
+  - **[SID - Secured IoT Devices Lab - UET Peshawar](http://www.uetpeshawar.edu.pk/):**
     - 🌱 Advanced sustainable agriculture through innovative IoT solutions.
 
 ### 🤝 **Community Engagement**
-- **[The Order of Pen](https://www.theorderofpen.com/)**
-  - ![The Order of Pen Logo](https://www.theorderofpen.com/logo.png)
+- **[The Order of Pen](https://www.theorderofpen.com/):**  
   - 🛠️ Role: Community Manager
   - 💬 Harnessed customer service skills.
   - 📢 Ensured collaborative efforts resonate within the community.
   - 🌍 Dedicated to technological and societal progress.
 
 ---
+
 
 
 ## Skills
