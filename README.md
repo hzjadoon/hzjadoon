@@ -89,7 +89,8 @@ Balancing studies with professional roles, our team at the SID - Secured IoT Dev
 </div>
 
 ## Contact Me:
-  [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=About.me&logoColor=white)]([link-to-your-resume](https://drive.google.com/file/d/1c4P2VtX5vW988gJCE1RwrhZUHpuLb6rF/view?usp=sharing)
+  [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.linkedin.com/in/hassanzaibjadoon/overlay/1720698761025/single-media-viewer/?type=DOCUMENT&profileId=ACoAAEBniMUBrUQwFDsDt3ljorZtb3aidJ77DCs)
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassanzaibjadoon)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hzjadoon.github.io/Portfolio/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassanzaibjadoon2004@gmail.com)
