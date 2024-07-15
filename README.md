@@ -128,5 +128,5 @@ If you like my work and would like to support me, you can:
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FCC624?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hzjadoon)
 
 ## Quote
-_"The best way to predict the future is to invent it" - Alan Kay_
+_" There are no unrealistic goals, only unrealistic deadlines.” - Brain Tracy_
 
